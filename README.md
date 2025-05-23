@@ -5,5 +5,10 @@ Multimodal Large Language Models (MLLMs) have demonstrated remarkable capabiliti
 
 ![fig2](https://github.com/user-attachments/assets/90f52c4a-b17c-480c-adc4-0608e8228abe)
 
+![fig3](https://github.com/user-attachments/assets/cfb6930b-d841-4917-9cd6-58dfa8e66c4c)
+
+![fig5](https://github.com/user-attachments/assets/87854fa7-de46-4f4f-bf66-9f062e6a0a71)
+
+![fig6](https://github.com/user-attachments/assets/8bae0484-d75c-463e-869f-6ad93bb954dc)
 
 **Due to multiple upcoming deadlines, we will finalize and release the code in June!**
